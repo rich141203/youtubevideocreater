@@ -1,0 +1,1278 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@media only screen and (min-width:1200px) and (max-width:1600px){
+    
+.logo{
+    width: 50px;
+    height: 70px;
+}
+.column{
+    margin-top: 23px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20.5px;
+}
+.column:hover{
+    color: blue;
+}
+.navbar{
+    height: 90px;
+    border: 1px solid #dbdbdb;
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 55px;
+    top: 10px;
+}
+.navitems:hover{
+    color: blue;
+}
+.main{
+    margin-right: 63px;
+}
+.sub{
+    margin-right: 70px;
+}
+.div{
+    margin-right: 59px;
+}
+.tit{
+    margin-right: 61px;
+}
+.para{
+    margin-right: 30px;
+}
+.btn1{
+    border: 1px solid #e0dcdc;
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    right: 85px;
+
+}
+.btn2{
+    border: none;
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    right: 62px;
+}
+.btn1:hover{
+   border: none;
+   background-color: gray;
+   margin-top: -5px;
+}
+.btn2:hover{
+      border: none;
+      background-color: black;
+      color: white;
+}
+.fir_tit{
+    font-size: 62px;
+    font-weight: 900;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.fir_tit1{
+    font-size: 20px;
+    font-weight: 300;
+    color: #8c8c95;;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.main_tit{
+   
+}
+.content{
+margin-top: 50px;
+height: 710px;
+}
+.fir_img{
+    width: 445px;
+    height: 600px;
+    background-size: cover;
+    object-fit: contain;
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 27px; 
+}
+.imgebg{
+    width: 437px;
+    height: 661px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 77px;
+    background-color: #eff0f6;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:50px;
+}
+.btn3{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.btn4{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;   
+}
+.full_img{
+    position: relative;
+    left: 40px;
+}
+.btn4:hover{
+      border: none;
+      background-color: black;
+      color: white;
+}
+.btn3:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.sec_tit{
+    color: #5f5d68;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    margin-top: 23px;
+}
+.you_img{
+    width: 191px;
+    height: 80px;
+}
+.twit_img{
+    width: 200px;
+}
+.face_img{
+    width: 200px;
+}
+.tik_img{
+    width: 140px;
+}
+.imag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.part_img{
+    width: 435px;
+    height: 489px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 55px;
+    background-color: #eff0f6;
+}
+.box_img{
+    width: 434px;
+    height: 434px;
+    position: absolute;
+    margin-top: -34px;
+}
+.paint_img{
+    width: 440px;
+    height: 435px;
+    position: relative;
+    margin-top: 111px;
+    left: 95px;
+}
+.full_image{
+    margin-top: 89px;
+}
+.thi_tit{
+    font-family: 'Space Grotesk', sans-serif; 
+    font-weight: bold;
+    color: #14142b;
+    font-size: 40px;
+}
+.main_para{
+    margin-top: 112px;
+    margin-left: 116px;
+}
+.mix_para{
+    font-family:  'Space Grotesk', sans-serif;
+
+}
+.four_tit{
+    margin-left: 117px;
+    margin-top: 40px;
+}
+.fiv_tit{
+    margin-left: 100px;
+    margin-top: 51px;
+}
+.btn5{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.full_cov{
+    position: relative;
+    top: 13px;
+}
+.btn5:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.btnos{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.six_tit{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-top: 71px;
+}
+.min_tit{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+ 
+.the_img{
+    height: 282px;
+    width: 446px;
+}
+.vid_img{
+    width: 380px;
+    height: 251px;
+}
+.cin_img{
+    width: 380px;
+}
+.card-title:hover{
+    color: blue;
+    margin-top: -5px;
+}
+.btn6{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+}  
+.btn7{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.btnoos{
+    display: flex;
+    justify-content: center;
+    gap: 46px;
+}
+.full_btn{
+    margin-top: 52px;
+}
+.btn6:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn7:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.side_tit{
+    width: 969px;
+    height: 325px;
+    background-color: black;
+    position: relative;
+    top: 134px;
+    border-radius: 50px;
+    margin-left: 140px;
+}
+.mini_tit{
+    position: relative;
+    top: 125px;
+    left: 100px;
+    color: white;
+    font-size: 20px;
+}
+.btn8{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative; 
+    left: 380px;
+    top: 55px;
+}
+.btn8:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.but{
+    position: relative;
+    top: 186px;
+    right: 223px;
+}
+.eig_tit{
+    color: #000000;
+    font-size: 25px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.hex_tit{
+    position: relative;
+    top: 200px;
+    left: 130px;
+}
+.hexa_tit{
+    position: relative;
+    top: 188px;
+    left: 35px;
+}
+.nin_tit{
+    color: #1d1d1f;
+    font-size: 20px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.thi_img{
+    width: 868px;
+    height: 1336px;
+}
+.fou_img{
+    width: 759px;
+    height: 1576px;
+}
+.fiv_img{
+    width: 868px;
+    height: 1336px;
+}
+.bts{
+    position: relative;
+    bottom: 85px;
+}
+.btn9{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    left: 380px;   
+}
+.btn10{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 410px;
+}
+.btn9:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn10:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.btss{
+    position: relative;
+    top: 150px;
+}
+.ten_tit{
+    color: #000000;
+    font-size: 25px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 85px;
+    top: 90px;
+}
+.ele_tit{
+    color: #1d1d1f;
+    font-size: 20px;
+    font-family: 'Space Grotesk', sans-serif;
+    position: relative;
+    left: 85px;
+    top: 115px;
+}
+.btn11{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    left: 105px;
+    top: 40px;
+}
+.btn12{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 160px;
+    top: 40px;
+}
+.btn11:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn12:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;   
+}
+.six_img{
+    height: 274px;
+    width: 267px;
+    border-radius: 174px;
+}
+.photo3{
+    width: 486px;
+    height: 580px;
+    position: relative;
+    left: 115px;
+}
+.full_photo{
+    position: relative;
+    top: 43px;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-title{
+    font-size: 28px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+}
+.card-text{
+    position: relative;
+    text-align: center;
+}
+.twe_tit{
+    color: #000000;
+    font-size: 35px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.btn13{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 260px;
+}
+.btn13:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;     
+}
+  .full_pho{
+    position: relative;
+    top: 90px;
+  } 
+  .full_bnn{
+    position: relative;
+    top:53px;
+}
+ .vide_img{
+    width: 500px;
+    height: 330px;
+ }
+ .cine_img{
+    width: 500px;
+    height: 330px;
+ }
+.fully_tit{
+    display: flex;
+    height: 200px;
+    background-color: black;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.meha_tit{
+    font-size: 30px;
+    color: white;
+    
+}
+.full_btns{
+    margin-top: 140px;
+}
+.btn14{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black; 
+    color: white;  
+}
+.btn15{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btn16{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btn17{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btnns{
+    gap: 70px;
+    display: flex;
+    justify-content: center;
+}
+.btn14:hover{
+       border: none;
+       margin-top: -5px;
+}
+.btn15:hover{
+    border: none;
+    margin-top: -5px;
+}
+.btn16:hover{
+    border: none;
+    margin-top: -5px;
+}
+.btn17:hover{
+    border: none;
+    margin-top: -5px;
+}
+.log{
+    width: 115px;
+    height: 225px;
+}
+.crea_tit{
+    position: relative;
+    left: 150px;
+    bottom: 138px;
+    font-size: 35px;
+    font-family:'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.sixt_tit{
+    position: relative;
+    top: 95px;
+    left: 65px;
+}
+.eigh_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.nine_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.twen_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.twent_tit{
+    text-align: center;
+}
+
+
+}
+@media only screen and (min-width:1100px) and (max-width:1500px){
+    
+}
+.logo{
+    width: 50px;
+    height: 70px;
+}
+.column{
+    margin-top: 23px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20.5px;
+}
+.column:hover{
+    color: blue;
+}
+.navbar{
+    height: 90px;
+    border: 1px solid #dbdbdb;
+}
+.navitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 55px;
+    top: 10px;
+}
+.navitems:hover{
+    color: blue;
+}
+.main{
+    margin-right: 63px;
+}
+.sub{
+    margin-right: 70px;
+}
+.div{
+    margin-right: 59px;
+}
+.tit{
+    margin-right: 61px;
+}
+.para{
+    margin-right: 30px;
+}
+.btn1{
+    border: 1px solid #e0dcdc;
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    right: 85px;
+
+}
+.btn2{
+    border: none;
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    right: 62px;
+}
+.btn1:hover{
+   border: none;
+   background-color: gray;
+   margin-top: -5px;
+}
+.btn2:hover{
+      border: none;
+      background-color: black;
+      color: white;
+}
+.fir_tit{
+    font-size: 62px;
+    font-weight: 900;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.fir_tit1{
+    font-size: 20px;
+    font-weight: 300;
+    color: #8c8c95;;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.main_tit{
+   
+}
+.content{
+margin-top: 50px;
+height: 710px;
+}
+.fir_img{
+    width: 445px;
+    height: 600px;
+    background-size: cover;
+    object-fit: contain;
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 27px; 
+}
+.imgebg{
+    width: 437px;
+    height: 661px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 77px;
+    background-color: #eff0f6;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap:50px;
+}
+.btn3{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.btn4{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;   
+}
+.full_img{
+    position: relative;
+    left: 40px;
+}
+.btn4:hover{
+      border: none;
+      background-color: black;
+      color: white;
+}
+.btn3:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.sec_tit{
+    color: #5f5d68;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    margin-top: 23px;
+}
+.you_img{
+    width: 191px;
+    height: 80px;
+}
+.twit_img{
+    width: 200px;
+}
+.face_img{
+    width: 200px;
+}
+.tik_img{
+    width: 140px;
+}
+.imag{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.part_img{
+    width: 435px;
+    height: 489px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 55px;
+    background-color: #eff0f6;
+}
+.box_img{
+    width: 434px;
+    height: 434px;
+    position: absolute;
+    margin-top: -34px;
+}
+.paint_img{
+    width: 440px;
+    height: 435px;
+    position: relative;
+    margin-top: 111px;
+    left: 95px;
+}
+.full_image{
+    margin-top: 89px;
+}
+.thi_tit{
+    font-family: 'Space Grotesk', sans-serif; 
+    font-weight: bold;
+    color: #14142b;
+    font-size: 40px;
+}
+.main_para{
+    margin-top: 112px;
+    margin-left: 116px;
+}
+.mix_para{
+    font-family:  'Space Grotesk', sans-serif;
+
+}
+.four_tit{
+    margin-left: 117px;
+    margin-top: 40px;
+}
+.fiv_tit{
+    margin-left: 100px;
+    margin-top: 51px;
+}
+.btn5{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.full_cov{
+    position: relative;
+    top: 13px;
+}
+.btn5:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.btnos{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.six_tit{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-top: 71px;
+}
+.min_tit{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+ 
+.the_img{
+    height: 282px;
+    width: 446px;
+}
+.vid_img{
+    width: 380px;
+    height: 251px;
+}
+.cin_img{
+    width: 380px;
+}
+.card-title:hover{
+    color: blue;
+    margin-top: -5px;
+}
+.btn6{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+}  
+.btn7{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+}
+.btnoos{
+    display: flex;
+    justify-content: center;
+    gap: 46px;
+}
+.full_btn{
+    margin-top: 52px;
+}
+.btn6:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn7:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.side_tit{
+    width: 969px;
+    height: 325px;
+    background-color: black;
+    position: relative;
+    top: 134px;
+    border-radius: 50px;
+    margin-left: 140px;
+}
+.mini_tit{
+    position: relative;
+    top: 125px;
+    left: 100px;
+    color: white;
+    font-size: 20px;
+}
+.btn8{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative; 
+    left: 380px;
+    top: 55px;
+}
+.btn8:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.but{
+    position: relative;
+    top: 186px;
+    right: 223px;
+}
+.eig_tit{
+    color: #000000;
+    font-size: 25px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.hex_tit{
+    position: relative;
+    top: 200px;
+    left: 130px;
+}
+.hexa_tit{
+    position: relative;
+    top: 188px;
+    left: 35px;
+}
+.nin_tit{
+    color: #1d1d1f;
+    font-size: 20px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.thi_img{
+    width: 868px;
+    height: 1336px;
+}
+.fou_img{
+    width: 759px;
+    height: 1576px;
+}
+.fiv_img{
+    width: 868px;
+    height: 1336px;
+}
+.bts{
+    position: relative;
+    bottom: 85px;
+}
+.btn9{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    left: 380px;   
+}
+.btn10{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 410px;
+}
+.btn9:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn10:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;
+}
+.btss{
+    position: relative;
+    top: 150px;
+}
+.ten_tit{
+    color: #000000;
+    font-size: 25px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 85px;
+    top: 90px;
+}
+.ele_tit{
+    color: #1d1d1f;
+    font-size: 20px;
+    font-family: 'Space Grotesk', sans-serif;
+    position: relative;
+    left: 85px;
+    top: 115px;
+}
+.btn11{
+    border: none;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    background-color: yellow;
+    position: relative;
+    left: 105px;
+    top: 40px;
+}
+.btn12{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 160px;
+    top: 40px;
+}
+.btn11:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: -5px;
+}
+.btn12:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;   
+}
+.six_img{
+    height: 274px;
+    width: 267px;
+    border-radius: 174px;
+}
+.photo3{
+    width: 486px;
+    height: 580px;
+    position: relative;
+    left: 115px;
+}
+.full_photo{
+    position: relative;
+    top: 43px;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-title{
+    font-size: 28px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+}
+.card-text{
+    position: relative;
+    text-align: center;
+}
+.twe_tit{
+    color: #000000;
+    font-size: 35px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.btn13{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: white;
+    position: relative;
+    left: 260px;
+}
+.btn13:hover{
+    border: none;
+    background-color: gray;
+    margin-top: -5px;     
+}
+  .full_pho{
+    position: relative;
+    top: 90px;
+  } 
+  .full_bnn{
+    position: relative;
+    top:53px;
+}
+ .vide_img{
+    width: 500px;
+    height: 330px;
+ }
+ .cine_img{
+    width: 500px;
+    height: 330px;
+ }
+.fully_tit{
+    display: flex;
+    height: 200px;
+    background-color: black;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.meha_tit{
+    font-size: 30px;
+    color: white;
+    
+}
+.full_btns{
+    margin-top: 140px;
+}
+.btn14{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black; 
+    color: white;  
+}
+.btn15{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btn16{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btn17{
+    border: 1px solid #e0dcdc;
+    width: 181px;
+    height: 69px;
+    border-radius: 30px;
+    transition: 0.2s;
+    background-color: black;
+    color: white;
+}
+.btnns{
+    gap: 70px;
+    display: flex;
+    justify-content: center;
+}
+.btn14:hover{
+       border: none;
+       margin-top: -5px;
+}
+.btn15:hover{
+    border: none;
+    margin-top: -5px;
+}
+.btn16:hover{
+    border: none;
+    margin-top: -5px;
+}
+.btn17:hover{
+    border: none;
+    margin-top: -5px;
+}
+.log{
+    width: 115px;
+    height: 225px;
+}
+.crea_tit{
+    position: relative;
+    left: 150px;
+    bottom: 138px;
+    font-size: 35px;
+    font-family:'Space Grotesk', sans-serif;
+    font-weight: bold;
+}
+.sixt_tit{
+    position: relative;
+    top: 95px;
+    left: 65px;
+}
+.eigh_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.nine_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.twen_tit{
+    font-size: 25px;
+    font-weight: 900;
+}
+.twent_tit{
+    text-align: center;
+}
+
+
+    
+
